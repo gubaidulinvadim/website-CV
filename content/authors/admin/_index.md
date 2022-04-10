@@ -12,6 +12,8 @@ role: Accelerator physicist
 organizations:
 - name: TU Darmstadt
   url: https://www.bp.tu-darmstadt.de/fachgebiet_beschleunigerphysik/index.de.jsp
+- name: FAIR/GSI Helmholtzzentrum
+  url: https://www.gsi.de/work/gesamtprojektleitung_fair/beschleunigerphysik
 
 # Short bio (displayed in user profile at end of posts)
 bio: Accelerator physicist
@@ -21,7 +23,7 @@ interests:
 - Accelerator physics
 - Numerical algorithms
 - Collective effects
-
+- Landau damping
 # Education to show in About widget
 education:
   courses:
