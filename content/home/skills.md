@@ -17,27 +17,27 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 <!--
 feature:
--description: Expert 
+ -description: Expert 
   icon: circle-dashed
   icon_pack: fas
   name: Accelerator physics
 feature:
-- description: Expert
+ - description: Expert
   icon: chart-scatter
   icon_pack: fas
   name: Collective effects
 feature:
-- description: Advanced
+ - description: Advanced
   icon: computer
   icon_pack: fas
   name: Numerical methods -->
 feature:
-- description: Advanced
+ - description: Advanced
   icon: python
   icon_pack: fab
   name: Python
 feature:
-- description: Advanced
+ - description: Advanced
   icon: chart-line
   icon_pack: fas
   name: Statistics
