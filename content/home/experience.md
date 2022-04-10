@@ -29,7 +29,7 @@ experience:
     location: Germany
     date_start: '2018-11-01'
     date_end: ''
-    description: 
+    description: Considering different novel instability mitigation methods via Landau damping for heavy ion synchrotrons
 <!--         Responsibilities include: -->
 <!--         * Analysing -->
 <!--         * Modelling -->
