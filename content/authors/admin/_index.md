@@ -74,4 +74,4 @@ highlight_name: true
 
 I'm an experienced accelerator physicist interested in intensity-dependent collective beam dynamics effects. Currently, I'm in the final phase of my PhD focused on beam instability mitigation via Landau damping for medium energy(SIS100@FAIR) and high-energy (LHC and its upgrades) synchrotrons and colliders. My strength lies in computational methods for modelling beam dynamics utilising high-performance computing structures. I also have experience in experimental studies of collective effects, particularly Landau damping.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
