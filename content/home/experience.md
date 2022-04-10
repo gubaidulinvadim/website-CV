@@ -34,7 +34,6 @@ experience:
 #* Analysing
         #* Modelling
         #* Deploying
-experience:  
   - title: Researcher 
     company: Budker institute of nuclear physics
     company_url: ''
