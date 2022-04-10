@@ -15,22 +15,6 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-<!--
-feature:
- -description: Expert 
-  icon: circle-dashed
-  icon_pack: fas
-  name: Accelerator physics
-feature:
- - description: Expert
-  icon: chart-scatter
-  icon_pack: fas
-  name: Collective effects
-feature:
- - description: Advanced
-  icon: computer
-  icon_pack: fas
-  name: Numerical methods -->
 feature:
 - description: Advanced
   icon: python
