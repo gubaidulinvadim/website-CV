@@ -34,7 +34,7 @@ feature:
 feature:
 - description: Advanced
   icon: python
-  icon_pack: fab
+  icon_pack: fas
   name: Python
 - description: Advanced
   icon: chart-line
