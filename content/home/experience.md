@@ -25,7 +25,7 @@ experience:
   - title: Researcher/PhD
     company: GSI Helmholtzzentrum
     company_url: ''
-    company_logo: org-gc
+    company_logo: FAIR_logo
     location: Germany
     date_start: '2018-11-01'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Researcher 
     company: Budker institute of nuclear physics
     company_url: ''
-    company_logo: org-x
+    company_logo: OfficiallogoBINPblueClear
     location: Novosibirsk
     date_start: '2016-09-01'
     date_end: '2018-06-30'
