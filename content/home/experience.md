@@ -30,10 +30,10 @@ experience:
     date_start: '2018-11-01'
     date_end: ''
     description: 
-        Responsibilities include:
-        * Analysing
-        * Modelling
-        * Deploying
+<!--         Responsibilities include: -->
+<!--         * Analysing -->
+<!--         * Modelling -->
+<!--         * Deploying -->
         
   - title: Researcher 
     company: Budker institute of nuclear physics
