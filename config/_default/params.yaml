@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme_day: coffee
-theme_night: ocean
+theme_day: Coffee
+theme_night: Ocean
 day_night: true
 font: 'minimal'
 font_size: L
