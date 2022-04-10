@@ -32,12 +32,11 @@ feature:
   icon_pack: fas
   name: Numerical methods -->
 feature:
- - description: Advanced
+- description: Advanced
   icon: python
   icon_pack: fab
   name: Python
-feature:
- - description: Advanced
+- description: Advanced
   icon: chart-line
   icon_pack: fas
   name: Statistics
