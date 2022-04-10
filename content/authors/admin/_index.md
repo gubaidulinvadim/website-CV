@@ -48,13 +48,13 @@ social:
   link: https://twitter.com/GubaidulinVadim
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=IqagsowAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gubaidulinvadim
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/vadim-gubaidulin
+  link: https://www.linkedin.com/in/vadim-gubaidulin
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
