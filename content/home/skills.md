@@ -16,14 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-<!-- -description: Expert 
+<!--
+feature:
+-description: Expert 
   icon: circle-dashed
   icon_pack: fas
   name: Accelerator physics
+feature:
 - description: Expert
   icon: chart-scatter
   icon_pack: fas
   name: Collective effects
+feature:
 - description: Advanced
   icon: computer
   icon_pack: fas
@@ -32,6 +36,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+feature:
 - description: Advanced
   icon: chart-line
   icon_pack: fas
