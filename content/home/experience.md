@@ -40,7 +40,7 @@ experience:
     company_logo: org-x
     location: Novosibirsk
     date_start: '2016-09-01'
-    date_end: '2018-06-31'
+    date_end: '2018-06-30'
     description: 
 
 design:
