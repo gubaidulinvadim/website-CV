@@ -7,7 +7,7 @@
 
 theme: Coffee
 #theme_night: Ocean
-day_night: true
+day_night: false
 font: 'minimal'
 font_size: L
 
