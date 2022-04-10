@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: Advanced
   icon: python
-  icon_pack: fas
+  icon_pack: fab
   name: Python
 - description: Advanced
   icon: chart-line
