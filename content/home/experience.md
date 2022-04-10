@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Researcher/PhD
-    company: GSI Helmholtzzentrum
+    company: FAIR/GSI Helmholtzzentrum
     company_url: ''
-    company_logo: FAIR_logo
+    company_logo: FAIR_Logo
     location: Germany
     date_start: '2018-11-01'
     date_end: ''
